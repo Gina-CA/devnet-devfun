@@ -1,2 +1,0 @@
-# devnet-devfun
-# devnet-devfun
